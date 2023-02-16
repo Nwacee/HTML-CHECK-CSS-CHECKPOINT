@@ -1,0 +1,29 @@
+nav,h2 {
+    display: inline-block;
+    font-family: roboto;
+    color: red
+}
+
+    .title {
+        color:aquamarine; 
+        font-family: arial;
+    }
+
+.navbar{
+    margin-left: 855px;
+    
+
+}
+    .navbar button:hover{
+        background-color: red;
+        color:white
+        
+    }
+
+
+
+head{
+    margin:0;
+    padding:0;
+
+}
